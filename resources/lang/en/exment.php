@@ -277,6 +277,7 @@ return [
         'data_submit_redirect' => 'Data Submit Redirect',
         'header_user_info' => 'Header User Information',
         'api_available' => 'API Available',
+        'ai_header' => 'Chatbot Setting',
         'ai_assistant_available' => 'AI Assistant Available',
         'ai_ocr_available' => 'AI OCR Available',
         'ai_header' => 'AI Setting',
